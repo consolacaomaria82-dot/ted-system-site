@@ -1,6 +1,4 @@
-# ted-system-site
-Website institucional da TED System construído com Astro.
- # TED System
+# TED System
 
 > Tecnologia que evolui com o seu negócio.
 
