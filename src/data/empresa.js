@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Responsabilidade",
+      descricao: "Agir com compromisso, respeito e dedicação, cumprindo nossas obrigações e garantindo a satisfação dos clientes, colaboradores e parceiros da empresa."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Ellen",
+      cargo: "CEO",
+      foto: "",
+      alt: "Foto de Ellen",
+      descricao: "Fundadora da NEXUS, começou desenvolvendo sistemas de gestão para comércios locais do interior do Xique-Xique Bahia."
     }
   ]
 };
